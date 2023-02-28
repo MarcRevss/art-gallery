@@ -439,14 +439,14 @@ body {
         rgba(255, 255, 255, 1) 15.7%,
         rgba(21, 21, 21, 1) 15.7%
       );
-      /* -webkit-background-clip: text;
+      -webkit-background-clip: text;
       color: transparent;
       font-weight: 900;
       font-size: 200;
       line-height: px;
       width: 1140px;
       margin-top: 26px;
-          margin-left: -145px; */
+          margin-left: -145px;
   
     }
   
